@@ -1,6 +1,6 @@
 <!-- ============================== HEADER ============================== -->
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6%2C11%2C20&height=200&section=header&text=Hi%2C%20I%27m%20Yangting%20SONG&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=28&desc=sjkncs%20%7C%20Mathematics%20%26%20Optimization%20%7C%20NLP%20%26%20CV%20%7C%20AI%20For%20Science&descAlignY=52&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I'm%20Yangting%20SONG&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=28&desc=sjkncs%20%7C%20Math%20%2B%20Optimization%20%7C%20NLP%20%2B%20CV%20%7C%20AI%20For%20Science&descAlignY=52&descSize=16)
 
 <!-- ============================== BADGES ============================== -->
 
@@ -480,4 +480,4 @@ Others       █░░░░░░░░░░░░░░░░░░░   2%
 
 <!-- ============================== FOOTER ============================== -->
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6%2C11%2C20&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
