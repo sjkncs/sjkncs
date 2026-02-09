@@ -302,31 +302,59 @@ I'm deeply fascinated by the intersection of **Ecology, Environmental Science, a
   </picture>
 </p>
 
+<!-- GitHub Stats via shields.io (reliable) -->
 <p align="center">
-  <a href="https://github.com/sjkncs">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sjkncs&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&count_private=true" width="48%" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/sjkncs">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sjkncs&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=c9d1d9&langs_count=8" width="48%" alt="Top Languages"/>
-  </a>
+  <a href="https://github.com/sjkncs"><img src="https://img.shields.io/github/stars/sjkncs?style=for-the-badge&logo=github&label=Total%20Stars&color=36BCF7" alt="Stars"/></a>
+  <a href="https://github.com/sjkncs"><img src="https://img.shields.io/github/followers/sjkncs?style=for-the-badge&logo=github&label=Followers&color=236ad3" alt="Followers"/></a>
+  <img src="https://img.shields.io/badge/Repos-6-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
+  <img src="https://img.shields.io/badge/Commits-Active-36BCF7?style=for-the-badge&logo=git&logoColor=white" alt="Commits"/>
 </p>
 
+<!-- Top Languages (manual, based on actual repo data) -->
+<table align="center">
+<tr><td colspan="2" align="center"><b>💻 Top Languages / 主要语言</b></td></tr>
+<tr>
+<td>
+
+```text
+Python       █████████████████░░░  45%
+TypeScript   ████████████░░░░░░░░  30%
+JavaScript   █████░░░░░░░░░░░░░░░  10%
+HTML/CSS     ████░░░░░░░░░░░░░░░░   8%
+ArkTS        ██░░░░░░░░░░░░░░░░░░   5%
+Others       █░░░░░░░░░░░░░░░░░░░   2%
+```
+
+</td>
+<td>
+
+| Language | Repos | Usage |
+|:---------|:-----:|:-----:|
+| 🐍 Python | 3 | Ding-AI backend, PandaQuantFlow, EIC-data, FinanceAI |
+| 📘 TypeScript | 2 | Ding-AI frontend, SmartTravel |
+| 📄 JavaScript | 3 | PandaQuantFlow web, Blog |
+| 🎨 HTML/CSS | 2 | Blog, SmartTravel |
+| 📱 ArkTS | 1 | SmartTravel (HarmonyOS) |
+| 📊 Jupyter | 1 | FinanceAI notebooks |
+
+</td>
+</tr>
+</table>
+
+<!-- Streak Stats (demolab - works reliably) -->
 <p align="center">
   <a href="https://github.com/sjkncs">
     <img src="https://streak-stats.demolab.com/?user=sjkncs&theme=react&hide_border=true&background=0d1117&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7" width="70%" alt="GitHub Streak"/>
   </a>
 </p>
 
+<!-- Per-repo star badges -->
 <p align="center">
-  <a href="https://github.com/sjkncs">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sjkncs&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=36BCF7&line=36BCF7&point=FF6B6B" width="100%" alt="Contribution Graph"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/sjkncs">
-    <img src="https://github-profile-trophy.vercel.app/?username=sjkncs&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7&rank=-C" width="90%" alt="Trophies"/>
-  </a>
+  <a href="https://github.com/sjkncs/Ding-AI"><img src="https://img.shields.io/github/stars/sjkncs/Ding-AI?style=flat-square&label=Ding-AI&color=36BCF7&logo=github" /></a>
+  <a href="https://github.com/sjkncs/PandaQuantFlow"><img src="https://img.shields.io/github/stars/sjkncs/PandaQuantFlow?style=flat-square&label=PandaQuantFlow&color=36BCF7&logo=github" /></a>
+  <a href="https://github.com/sjkncs/smarttravel"><img src="https://img.shields.io/github/stars/sjkncs/smarttravel?style=flat-square&label=SmartTravel&color=36BCF7&logo=github" /></a>
+  <a href="https://github.com/sjkncs/2025-eco-machine-learning"><img src="https://img.shields.io/github/stars/sjkncs/2025-eco-machine-learning?style=flat-square&label=FinanceAI&color=36BCF7&logo=github" /></a>
+  <a href="https://github.com/sjkncs/EIC-shipping-data-processing"><img src="https://img.shields.io/github/stars/sjkncs/EIC-shipping-data-processing?style=flat-square&label=EIC-Data&color=36BCF7&logo=github" /></a>
 </p>
 
 <!-- Quick Stats Summary -->
