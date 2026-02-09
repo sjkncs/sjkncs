@@ -1,6 +1,6 @@
 <!-- ============================== HEADER ============================== -->
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I%27m%20Yangting%20SONG&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=28&desc=sjkncs%20%7C%20Mathematics%20%26%20Optimization%20%7C%20NLP%20%26%20CV%20%7C%20AI%20For%20Science&descAlignY=52&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6%2C11%2C20&height=200&section=header&text=Hi%2C%20I%27m%20Yangting%20SONG&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=28&desc=sjkncs%20%7C%20Mathematics%20%26%20Optimization%20%7C%20NLP%20%26%20CV%20%7C%20AI%20For%20Science&descAlignY=52&descSize=16)
 
 <!-- ============================== BADGES ============================== -->
 
@@ -304,10 +304,10 @@ I'm deeply fascinated by the intersection of **Ecology, Environmental Science, a
 
 <p align="center">
   <a href="https://github.com/sjkncs">
-    <img src="https://github-readme-stats.vercel.app/api?username=sjkncs&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&count_private=true" width="48%" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sjkncs&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&count_private=true" width="48%" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/sjkncs">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjkncs&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=c9d1d9&langs_count=8" width="48%" alt="Top Languages"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sjkncs&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=c9d1d9&langs_count=8" width="48%" alt="Top Languages"/>
   </a>
 </p>
 
@@ -325,7 +325,7 @@ I'm deeply fascinated by the intersection of **Ecology, Environmental Science, a
 
 <p align="center">
   <a href="https://github.com/sjkncs">
-    <img src="https://github-profile-trophy.vercel.app/?username=sjkncs&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" width="90%" alt="Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=sjkncs&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7&rank=-C" width="90%" alt="Trophies"/>
   </a>
 </p>
 
