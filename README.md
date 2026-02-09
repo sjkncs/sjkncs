@@ -1,6 +1,6 @@
 <!-- ============================== HEADER ============================== -->
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Yangting%20SONG&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=28&desc=🌴%20sjkncs%20👨‍💻%20|%20Mathematics%20%26%20Optimization%20|%20NLP%20%26%20CV%20|%20AI%20For%20Science&descAlignY=52&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I%27m%20Yangting%20SONG&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=28&desc=sjkncs%20%7C%20Mathematics%20%26%20Optimization%20%7C%20NLP%20%26%20CV%20%7C%20AI%20For%20Science&descAlignY=52&descSize=16)
 
 <!-- ============================== BADGES ============================== -->
 
@@ -21,7 +21,7 @@
 <!-- ============================== TYPING SVG ============================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=680&lines=Mathematics+is+the+language+of+nature+🔢;Optimization+is+the+key+to+intelligence+🧠;AI%2BBio+is+the+future+of+scientific+discovery+🧬;Ecology+%26+AI+pushing+the+boundaries+🌿;数学是自然的语言，优化是智能的钥匙+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=680&lines=Mathematics+is+the+language+of+nature;Optimization+is+the+key+to+intelligence;AI%2BBio+is+the+future+of+scientific+discovery;Ecology+%26+AI+pushing+the+boundaries;%E6%95%B0%E5%AD%A6%E6%98%AF%E8%87%AA%E7%84%B6%E7%9A%84%E8%AF%AD%E8%A8%80%EF%BC%8C%E4%BC%98%E5%8C%96%E6%98%AF%E6%99%BA%E8%83%BD%E7%9A%84%E9%92%A5%E5%8C%99" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 
 <!-- ============================== ABOUT ME ============================== -->
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me / 关于我
+## 👋 About Me / 关于我
 
 <table>
 <tr>
@@ -296,9 +296,9 @@ I'm deeply fascinated by the intersection of **Ecology, Environmental Science, a
 <!-- GitHub Snake Animation / GitHub 贪吃蛇动画 -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sjkncs/sjkncs/blob/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/sjkncs/sjkncs/blob/output/github-snake.svg" />
-    <img alt="github-snake" src="https://github.com/sjkncs/sjkncs/blob/output/github-snake.svg" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sjkncs/sjkncs/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sjkncs/sjkncs/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/sjkncs/sjkncs/output/github-snake.svg" width="100%"/>
   </picture>
 </p>
 
@@ -313,7 +313,7 @@ I'm deeply fascinated by the intersection of **Ecology, Environmental Science, a
 
 <p align="center">
   <a href="https://github.com/sjkncs">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sjkncs&theme=react&hide_border=true&background=0d1117&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7" width="70%" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com/?user=sjkncs&theme=react&hide_border=true&background=0d1117&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7" width="70%" alt="GitHub Streak"/>
   </a>
 </p>
 
@@ -439,7 +439,7 @@ I'm deeply fascinated by the intersection of **Ecology, Environmental Science, a
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=500&lines=💻✨+Happy+Coding!+✨💻;Open+to+collaboration+and+new+ideas!;期待与你交流，共同探索AI的无限可能！" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=500&lines=Happy+Coding!+%F0%9F%92%BB%E2%9C%A8;Open+to+collaboration+and+new+ideas!;%E6%9C%9F%E5%BE%85%E4%B8%8E%E4%BD%A0%E4%BA%A4%E6%B5%81%EF%BC%8C%E5%85%B1%E5%90%8C%E6%8E%A2%E7%B4%A2AI%E7%9A%84%E6%97%A0%E9%99%90%E5%8F%AF%E8%83%BD%EF%BC%81" alt="Typing SVG" />
 </p>
 
 ---
@@ -452,4 +452,4 @@ I'm deeply fascinated by the intersection of **Ecology, Environmental Science, a
 
 <!-- ============================== FOOTER ============================== -->
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6%2C11%2C20&height=120&section=footer)
