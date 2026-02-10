@@ -362,8 +362,8 @@ Others       █░░░░░░░░░░░░░░░░░░░   2%
 <table align="center">
 <tr>
 <td align="center"><b>🎯 20+</b><br/>Skills Mastered<br/>掌握技能</td>
-<td align="center"><b>📝 6</b><br/>Repositories<br/>代码仓库</td>
-<td align="center"><b>🏆 6</b><br/>Projects<br/>完成项目</td>
+<td align="center"><b>📝 7</b><br/>Repositories<br/>代码仓库</td>
+<td align="center"><b>🏆 12</b><br/>Projects<br/>完成项目</td>
 <td align="center"><b>💡 200+</b><br/>Hours Coding<br/>编程时长</td>
 <td align="center"><b>🔥 Active</b><br/>Contributions<br/>持续贡献中</td>
 </tr>
