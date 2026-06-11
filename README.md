@@ -40,7 +40,7 @@
 
 Hi there! I'm **Yangting SONG** (sjkncs)! 👋
 
-- 🎆 **Harbin Institute of Technology (Shenzhen)** — Urban Planning
+- 🎆 **Harbin Institute of Technology (Shenzhen)** 
 - 🔢 Passionate about **Mathematics, Numerical Analysis & Optimization Theory**, diving deep into the mathematical principles behind algorithms
 - 🤖 Focused on **Artificial Intelligence & Machine Learning**, dedicated to changing the world through tech innovation
 - 🧬 Exploring the intersection of **AI + Bioinformatics**, applying intelligent algorithms to biomedical research
