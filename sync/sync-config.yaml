@@ -1,0 +1,51 @@
+# ============================================================
+# SJKNCS 同步配置文件
+# ============================================================
+# 将此文件放在用户目录下以自定义同步行为：
+#   Windows: %USERPROFILE%\.codebuddy\sjkncs\sync-config.yaml
+#   macOS/Linux: ~/.codebuddy/sjkncs/sync-config.yaml
+# ============================================================
+
+sync:
+  # ---- 远程仓库 ----
+  remote:
+    url: "https://github.com/sjkncs/sjkncs.git"
+    branch: "main"
+
+  # ---- 更新频率 ----
+  # daily | weekly | monthly | manual
+  check_interval: weekly
+
+  # ---- 自动应用策略 ----
+  auto_apply:
+    patch: true       # 补丁版本 (1.0.0 → 1.0.1) 自动应用
+    minor: ask        # 次要版本 (1.0.0 → 1.1.0) 询问
+    major: ask        # 主版本   (1.0.0 → 2.0.0) 询问
+
+  # ---- 通知 ----
+  notify:
+    enabled: true
+    # 在 AI 会话开始时检查更新
+
+  # ---- 忽略的技能 ----
+  # 列入此列表的技能不会自动同步
+  ignore_skills: []
+  #  example:
+  #    - "04-rollback-backup"  # 使用自定义回退方案
+
+  # ---- 备份 ----
+  backup:
+    enabled: true
+    dir: ".codebuddy/backups/sjkncs/"
+    retention_days: 30
+
+  # ---- 覆盖 ----
+  # 本地覆盖文件目录（优先级高于远程）
+  overrides_dir: ".codebuddy/overrides/"
+
+  # ---- 合并策略 ----
+  merge:
+    strategy: "interactive"  # interactive | remote-first | local-first
+    # interactive: 逐项展示冲突让用户选择
+    # remote-first: 远程版本优先
+    # local-first: 本地版本优先

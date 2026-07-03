@@ -1,0 +1,63 @@
+{
+  "repo": "sjkncs",
+  "version": "1.0.0",
+  "release_date": "2026-07-03",
+  "description": "AI 编程七维治理体系 — 代码优化 · 规则管理 · 记忆上下文 · 回退备份 · 文件分类 · Token节约 · 同步管理",
+  "skills": {
+    "01-code-optimization": {
+      "version": "1.0.0",
+      "updated": "2026-07-03",
+      "description": "代码优化与质量治理：重构指导、性能优化、代码审查、简化策略"
+    },
+    "02-rule-management": {
+      "version": "1.0.0",
+      "updated": "2026-07-03",
+      "description": "规则化管理：AI 编程规则的创建、版本控制、优先级管理、冲突解决"
+    },
+    "03-memory-context": {
+      "version": "1.0.0",
+      "updated": "2026-07-03",
+      "description": "记忆与上下文管理：跨会话记忆持久化、上下文窗口优化、关键信息提取"
+    },
+    "04-rollback-backup": {
+      "version": "1.0.0",
+      "updated": "2026-07-03",
+      "description": "自由回退与备份：Git 快照管理、安全实验区、变更追踪、一键回滚"
+    },
+    "05-file-classification": {
+      "version": "1.0.0",
+      "updated": "2026-07-03",
+      "description": "主动分类代码文件：自动识别文件类型、建议目录归属、检测放置错误"
+    },
+    "06-token-saving": {
+      "version": "1.0.0",
+      "updated": "2026-07-03",
+      "description": "Token 节约策略：上下文预算管理、信息懒加载、选择性文件读取"
+    },
+    "07-sync-management": {
+      "version": "1.0.0",
+      "updated": "2026-07-03",
+      "description": "更新同步与优化管理：技能/Rules 版本追踪、远程同步、冲突合并"
+    }
+  },
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2026-07-03",
+      "changes": [
+        "初始发布",
+        "七维技能体系完整实现",
+        "四文件记忆系统 (task_plan / findings / progress / decisions)",
+        "三层规则体系 (团队 / 项目 / 用户)",
+        "三层回退保护 (文件备份 / Git快照 / 实验分支)",
+        "六大 Token 节约策略",
+        "GitHub 分布式同步机制"
+      ]
+    }
+  ],
+  "compatibility": {
+    "min_codebuddy_version": "1.0.0",
+    "tested_on": ["Claude Code", "CodeBuddy", "Cursor"],
+    "requires": []
+  }
+}

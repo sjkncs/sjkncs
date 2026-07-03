@@ -1,0 +1,32 @@
+# .gitignore for SJKNCS
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/settings.json
+.idea/
+
+# Backup files
+*.bak
+*.backup
+
+# Node (if any test infrastructure)
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
