@@ -61,7 +61,7 @@ Applied across these projects / 用于上述项目：**Python · TypeScript · J
 ## Public activity / 公开仓库动态
 
 <p>
-  <img src="assets/activity.svg" width="100%" alt="Snapshot of public repository counts, followers, stars and primary-language counts. The accessible data table follows." />
+  <img src="assets/activity.svg" width="100%" alt="Snapshot of public repository counts, forks, stars and primary-language counts. The accessible data table follows." />
 </p>
 
 <!-- activity:start -->
@@ -74,7 +74,6 @@ Public GitHub metadata, collected **2026-10-13 (UTC)**. / 公开数据快照，�
 | Non-fork repositories / 非 fork 仓库 | 105 |
 | Forks / 分叉仓库 | 114 |
 | Stars on non-fork repositories / 非 fork 仓库获星总数 | 110 |
-| Followers / 关注者 | 0 |
 
 Recent pushes / 最近推送（非 fork、非归档，不含主页仓库）：
 

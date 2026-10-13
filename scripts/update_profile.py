@@ -63,7 +63,6 @@ def collect(fetch=api, today=None):
         "public_repositories": len(public),
         "nonfork_repositories": len(nonfork),
         "forks": len(public) - len(nonfork),
-        "followers": user["followers"],
         "nonfork_stars": sum(r["stargazers_count"] for r in nonfork),
         "without_primary_language": sum(r["language"] is None for r in nonfork),
         "primary_languages": dict(sorted(languages.items(), key=lambda p: (-p[1], p[0]))),
@@ -82,7 +81,6 @@ def activity_markdown(data):
         f"| Non-fork repositories / 非 fork 仓库 | {data['nonfork_repositories']} |",
         f"| Forks / 分叉仓库 | {data['forks']} |",
         f"| Stars on non-fork repositories / 非 fork 仓库获星总数 | {data['nonfork_stars']} |",
-        f"| Followers / 关注者 | {data['followers']} |",
         "", "Recent pushes / 最近推送（非 fork、非归档，不含主页仓库）：", "",
     ]
     lines.extend(f"- [{r['name']}]({r['url']}) · {r['pushed_on']}" for r in data["recent_pushes"])
@@ -109,7 +107,7 @@ def activity_svg(data):
         ("PUBLIC REPOS", data["public_repositories"]),
         ("NON-FORK REPOS", data["nonfork_repositories"]),
         ("STARS / NON-FORK", data["nonfork_stars"]),
-        ("FOLLOWERS", data["followers"]),
+        ("FORKS", data["forks"]),
     ]
     langs = list(data["primary_languages"].items())[:5]
     parts = [
