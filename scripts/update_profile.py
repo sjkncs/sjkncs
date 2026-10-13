@@ -180,7 +180,7 @@ def main():
     readme = (ROOT / "README.md").read_text(encoding="utf-8")
     data = json.loads((ROOT / "data/profile.json").read_text(encoding="utf-8")) if args.check else collect()
     rendered = outputs(data, readme)
-    for asset in (ROOT / "assets").glob("*.svg"):
+    for asset in (ROOT / "assets").rglob("*.svg"):
         validate_svg(asset.read_text(encoding="utf-8"))
     for src in re.findall(r'<img[^>]+src="([^"]+)"', readme):
         if src.startswith("https://"):

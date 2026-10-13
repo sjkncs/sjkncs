@@ -3,9 +3,14 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/sjkncs"><img src="assets/badges/github.svg" alt="GitHub / sjkncs" /></a>
+  <a href="https://orcid.org/0009-0001-7693-6484"><img src="assets/badges/orcid.svg" alt="ORCID" /></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/sjkncs?tab=repositories">Repositories / 代码</a> ·
   <a href="https://orcid.org/0009-0001-7693-6484">ORCID / 研究</a> ·
-  <a href="https://github.com/sjkncs/my-hexo-blog">Blog / 博客</a> ·
+  <a href="https://sjkncs.github.io/my-hexo-blog/">Blog / 博客</a> ·
   <a href="mailto:zhiwaisong@gmail.com">Email / 联系</a>
 </p>
 
@@ -51,6 +56,17 @@ These are entry points into my public work; project READMEs document their setup
 </details>
 
 ## Toolkit / 常用工具
+
+<p align="center">
+  <img src="assets/badges/python.svg" alt="Python" />
+  <img src="assets/badges/typescript.svg" alt="TypeScript" />
+  <img src="assets/badges/javascript.svg" alt="JavaScript" />
+  <img src="assets/badges/pytorch.svg" alt="PyTorch" />
+  <img src="assets/badges/nodedotjs.svg" alt="Node.js" />
+  <img src="assets/badges/electron.svg" alt="Electron" />
+  <img src="assets/badges/git.svg" alt="Git" />
+  <img src="assets/badges/latex.svg" alt="LaTeX" />
+</p>
 
 <p>
   <img src="assets/toolkit.svg" width="100%" alt="Python, TypeScript, JavaScript, PyTorch, scientific Python, Node.js, Electron, Playwright, GIS, Git and LaTeX." />
