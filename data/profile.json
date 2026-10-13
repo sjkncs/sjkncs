@@ -1,0 +1,51 @@
+{
+  "owner": "sjkncs",
+  "collected_on": "2026-10-13",
+  "source": "https://api.github.com/users/sjkncs",
+  "repositories_source": "https://api.github.com/users/sjkncs/repos?type=owner",
+  "public_repositories": 219,
+  "nonfork_repositories": 105,
+  "forks": 114,
+  "followers": 16,
+  "nonfork_stars": 110,
+  "without_primary_language": 16,
+  "primary_languages": {
+    "Python": 49,
+    "TypeScript": 19,
+    "JavaScript": 6,
+    "HTML": 5,
+    "TeX": 3,
+    "C": 2,
+    "PowerShell": 2,
+    "Jupyter Notebook": 1,
+    "VHDL": 1,
+    "Vue": 1
+  },
+  "recent_pushes": [
+    {
+      "name": "shenzhen-housing-redevelopment",
+      "url": "https://github.com/sjkncs/shenzhen-housing-redevelopment",
+      "pushed_on": "2026-10-13"
+    },
+    {
+      "name": "bili-ai-index",
+      "url": "https://github.com/sjkncs/bili-ai-index",
+      "pushed_on": "2026-10-13"
+    },
+    {
+      "name": "bili-limu-ai",
+      "url": "https://github.com/sjkncs/bili-limu-ai",
+      "pushed_on": "2026-10-12"
+    },
+    {
+      "name": "bili-3dv-paper-notes",
+      "url": "https://github.com/sjkncs/bili-3dv-paper-notes",
+      "pushed_on": "2026-10-12"
+    },
+    {
+      "name": "bili-ai-video-index",
+      "url": "https://github.com/sjkncs/bili-ai-video-index",
+      "pushed_on": "2026-10-12"
+    }
+  ]
+}

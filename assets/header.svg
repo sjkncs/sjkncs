@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 300" role="img" aria-labelledby="title desc">
+  <title id="title">Yangting SONG / sjkncs</title>
+  <desc id="desc">AI engineering, scientific computing and urban research. Harbin Institute of Technology, Shenzhen.</desc>
+  <defs>
+    <linearGradient id="paper" x2="1" y2="1"><stop stop-color="#f8f6ee"/><stop offset="1" stop-color="#e9f1ed"/></linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#154b44" stroke-opacity=".07"/></pattern>
+  </defs>
+  <rect width="960" height="300" rx="16" fill="url(#paper)"/>
+  <rect width="960" height="300" rx="16" fill="url(#grid)"/>
+  <path d="M0 260H960" stroke="#154b44" stroke-opacity=".15"/>
+  <g font-family="Verdana, sans-serif" fill="#153f39">
+    <text x="38" y="43" font-size="12" letter-spacing="3">SJKNCS / RESEARCH + ENGINEERING</text>
+    <text x="36" y="120" font-family="Georgia, serif" font-size="54">Yangting SONG</text>
+    <text x="38" y="161" font-size="17">AI engineering. Scientific computing.</text>
+    <text x="38" y="190" font-size="17">Urban &amp; spatial research.</text>
+    <text x="38" y="236" font-size="12" fill="#526a63">Harbin Institute of Technology (Shenzhen)</text>
+    <text x="38" y="285" font-size="11" letter-spacing="1.2">CONNECT IDEAS TO DATA. CONNECT DATA TO TOOLS.</text>
+  </g>
+  <g transform="translate(690 38)" fill="none" stroke="#28685c" stroke-width="2">
+    <rect x="12" y="12" width="192" height="192" rx="18" stroke-opacity=".25"/>
+    <path d="M28 156L72 102L118 127L179 45M28 67L72 102L118 44L179 45M118 127L166 180"/>
+    <path d="M72 102V180M118 44V127" stroke-dasharray="4 6" stroke-opacity=".4"/>
+    <g fill="#f8f6ee"><circle cx="28" cy="156" r="8"/><circle cx="28" cy="67" r="6"/><circle cx="72" cy="102" r="12"/><circle cx="118" cy="127" r="8"/><circle cx="118" cy="44" r="6"/><circle cx="166" cy="180" r="6"/></g>
+    <circle cx="179" cy="45" r="12" fill="#d9a653" stroke="#b98639"/>
+    <path d="M34 180H55M90 180H126" stroke-opacity=".4"/>
+  </g>
+</svg>

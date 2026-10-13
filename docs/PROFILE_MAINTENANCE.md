@@ -1,0 +1,23 @@
+# Profile maintenance
+
+## Content and assets
+
+`README.md` is the public profile. Update its introduction, focus and selected projects manually when their actual scope changes. `assets/header.svg` and `assets/toolkit.svg` are self-contained vectors; no font, image or script is fetched by either asset. The contribution animation remains in a collapsible section and is the only remote image.
+
+## Automatic public metadata
+
+`scripts/update_profile.py` uses GitHub's public user and repository endpoints through GitHub CLI. It collects every page, excludes private repositories, checks the public repository count and stores a dated snapshot in `data/profile.json`. It does not access private project content, collect commit histories or infer achievements.
+
+The snapshot drives `assets/activity.svg` and the accessible README table. Total public repositories include forks; the separate non-fork count excludes them. Stars are summed over public non-fork repositories. Primary-language counts describe GitHub's single main language per non-fork repository; they are not language-byte percentages or proficiency. Recent activity lists non-fork, non-archived public repositories by push date, excluding this profile repository. Non-fork status does not imply original authorship: mirrors and derivative work may be included.
+
+Run from the repository root:
+
+```powershell
+py -3.11 scripts/update_profile.py
+py -3.11 -m unittest discover -s tests -v
+py -3.11 scripts/update_profile.py --check
+```
+
+GitHub Actions runs the same checks for pull requests. On pushes to `main`, manual dispatches and the daily schedule, it refreshes metadata and commits only the generated files. Pull requests never run the publishing job. Refresh failures retain the previous committed assets and their timestamp. GitHub can delay scheduled runs; the visible date is the data collection time, not a promise of real-time updates.
+
+The generator requires Python 3.11+ and GitHub CLI, with no third-party Python packages. GitHub Actions dependencies are pinned to verified commit SHAs. Public GitHub API responses are the data source; no external statistics renderer or visitor-tracking service is used.

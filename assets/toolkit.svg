@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 204" role="img" aria-labelledby="title desc">
+  <title id="title">Toolkit</title>
+  <desc id="desc">Code: Python, TypeScript, JavaScript. Models: PyTorch and scientific Python. Products: Node.js, Electron and Playwright. Research: GIS, Git and LaTeX.</desc>
+  <rect width="960" height="204" rx="12" fill="#f1f5f1"/>
+  <g fill="none" stroke="#d0dcd3"><path d="M240 22V182M480 22V182M720 22V182"/></g>
+  <g fill="none" stroke="#28685c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M45 31L34 42L45 53M63 31L74 42L63 53M58 28L50 56"/>
+    <rect x="280" y="28" width="28" height="28" rx="5"/><path d="M286 21V28M301 21V28M286 56V63M301 56V63M273 35H280M273 49H280M308 35H315M308 49H315M287 35H301V49H287Z"/>
+    <rect x="518" y="27" width="37" height="29" rx="4"/><path d="M524 37L530 42L524 47M536 47H546M528 63H546"/>
+    <path d="M757 30L770 25L783 31L796 26V55L783 60L770 54L757 59ZM770 25V54M783 31V60"/>
+  </g>
+  <g font-family="Verdana, sans-serif" fill="#153f39">
+    <g font-size="15" font-weight="bold"><text x="30" y="93">CODE</text><text x="270" y="93">MODELS</text><text x="510" y="93">PRODUCTS</text><text x="750" y="93">RESEARCH</text></g>
+    <g font-size="13" fill="#465f55"><text x="30" y="122">Python</text><text x="30" y="148">TypeScript / JavaScript</text><text x="270" y="122">PyTorch / scikit-learn</text><text x="270" y="148">pandas / NumPy</text><text x="510" y="122">Node.js / Electron</text><text x="510" y="148">Playwright</text><text x="750" y="122">GIS / spatial data</text><text x="750" y="148">Git / LaTeX</text></g>
+    <text x="30" y="184" font-size="10" fill="#526a63">TOOLS USED IN PUBLIC PROJECTS / NOT A SKILL SCORE</text>
+  </g>
+</svg>
