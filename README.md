@@ -74,7 +74,7 @@ Public GitHub metadata, collected **2026-10-13 (UTC)**. / 公开数据快照，�
 | Non-fork repositories / 非 fork 仓库 | 105 |
 | Forks / 分叉仓库 | 114 |
 | Stars on non-fork repositories / 非 fork 仓库获星总数 | 110 |
-| Followers / 关注者 | 16 |
+| Followers / 关注者 | 0 |
 
 Recent pushes / 最近推送（非 fork、非归档，不含主页仓库）：
 
@@ -84,8 +84,8 @@ Recent pushes / 最近推送（非 fork、非归档，不含主页仓库）：
 - [bili-3dv-paper-notes](https://github.com/sjkncs/bili-3dv-paper-notes) · 2026-10-12
 - [bili-ai-video-index](https://github.com/sjkncs/bili-ai-video-index) · 2026-10-12
 
-Primary language by repository / 非 fork 仓库主语言计数：Python: 49; TypeScript: 19; JavaScript: 6; HTML: 5; TeX: 3; C: 2; PowerShell: 2; Jupyter Notebook: 1; VHDL: 1; Vue: 1。
-No primary language reported / 未报告主语言：16。
+Primary language by repository / 非 fork 仓库主语言计数：Python: 50; TypeScript: 19; JavaScript: 6; HTML: 5; TeX: 3; C: 2; PowerShell: 2; Jupyter Notebook: 1; VHDL: 1; Vue: 1。
+No primary language reported / 未报告主语言：15。
 
 Language counts describe repositories, not code-byte percentages or proficiency. Non-fork does not establish original authorship. / 主语言计数不是代码占比或熟练度，非 fork 也不代表全部原创。
 
