@@ -1,6 +1,6 @@
 {
   "owner": "sjkncs",
-  "collected_on": "2026-10-13",
+  "collected_on": "2026-10-14",
   "source": "https://api.github.com/users/sjkncs",
   "repositories_source": "https://api.github.com/users/sjkncs/repos?type=owner",
   "public_repositories": 219,
@@ -22,6 +22,11 @@
   },
   "recent_pushes": [
     {
+      "name": "my-hexo-blog",
+      "url": "https://github.com/sjkncs/my-hexo-blog",
+      "pushed_on": "2026-10-14"
+    },
+    {
       "name": "shenzhen-housing-redevelopment",
       "url": "https://github.com/sjkncs/shenzhen-housing-redevelopment",
       "pushed_on": "2026-10-13"
@@ -39,11 +44,6 @@
     {
       "name": "bili-3dv-paper-notes",
       "url": "https://github.com/sjkncs/bili-3dv-paper-notes",
-      "pushed_on": "2026-10-12"
-    },
-    {
-      "name": "bili-ai-video-index",
-      "url": "https://github.com/sjkncs/bili-ai-video-index",
       "pushed_on": "2026-10-12"
     }
   ]

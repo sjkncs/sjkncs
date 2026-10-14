@@ -82,7 +82,7 @@ Applied across these projects / 用于上述项目：**Python · TypeScript · J
 
 <!-- activity:start -->
 
-Public GitHub metadata, collected **2026-10-13 (UTC)**. / 公开数据快照，每日尝试同步。
+Public GitHub metadata, collected **2026-10-14 (UTC)**. / 公开数据快照，每日尝试同步。
 
 | Metric / 指标 | Value / 数值 |
 | :--- | ---: |
@@ -93,11 +93,11 @@ Public GitHub metadata, collected **2026-10-13 (UTC)**. / 公开数据快照，�
 
 Recent pushes / 最近推送（非 fork、非归档，不含主页仓库）：
 
+- [my-hexo-blog](https://github.com/sjkncs/my-hexo-blog) · 2026-10-14
 - [shenzhen-housing-redevelopment](https://github.com/sjkncs/shenzhen-housing-redevelopment) · 2026-10-13
 - [bili-ai-index](https://github.com/sjkncs/bili-ai-index) · 2026-10-13
 - [bili-limu-ai](https://github.com/sjkncs/bili-limu-ai) · 2026-10-12
 - [bili-3dv-paper-notes](https://github.com/sjkncs/bili-3dv-paper-notes) · 2026-10-12
-- [bili-ai-video-index](https://github.com/sjkncs/bili-ai-video-index) · 2026-10-12
 
 Primary language by repository / 非 fork 仓库主语言计数：Python: 50; TypeScript: 19; JavaScript: 6; HTML: 5; TeX: 3; C: 2; PowerShell: 2; Jupyter Notebook: 1; VHDL: 1; Vue: 1。
 No primary language reported / 未报告主语言：15。
