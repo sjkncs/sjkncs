@@ -1,6 +1,8 @@
 import importlib.util
 from pathlib import Path
 import unittest
+from unittest.mock import patch
+import subprocess
 
 SPEC = importlib.util.spec_from_file_location("profile", Path(__file__).resolve().parents[1] / "scripts/update_profile.py")
 profile = importlib.util.module_from_spec(SPEC)
@@ -15,6 +17,17 @@ def repo(name, **kwargs):
 
 
 class ProfileTests(unittest.TestCase):
+    def test_transient_api_failure_is_retried_with_a_bound(self):
+        error = subprocess.CalledProcessError(1, ["gh", "api"])
+        success = subprocess.CompletedProcess([], 0, stdout='{"ok": true}')
+        with patch.object(profile.subprocess, "run", side_effect=[error, success]) as run, patch.object(profile.time, "sleep"):
+            self.assertEqual(profile.api("users/sjkncs"), {"ok": True})
+            self.assertEqual(run.call_count, 2)
+        with patch.object(profile.subprocess, "run", side_effect=error) as run, patch.object(profile.time, "sleep"):
+            with self.assertRaises(RuntimeError):
+                profile.api("users/sjkncs")
+            self.assertEqual(run.call_count, 3)
+
     def fetcher(self, pages, total):
         def fetch(endpoint):
             if "?" not in endpoint:

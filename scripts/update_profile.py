@@ -8,6 +8,7 @@ import json
 from pathlib import Path
 import re
 import subprocess
+import time
 import xml.etree.ElementTree as ET
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -18,11 +19,17 @@ EMOJI = re.compile("[\U0001f000-\U0001faff\u2600-\u27bf\ufe0f\u200d]")
 
 
 def api(endpoint):
-    result = subprocess.run(
-        ["gh", "api", endpoint], check=True, capture_output=True,
-        encoding="utf-8", timeout=60,
-    )
-    return json.loads(result.stdout)
+    for attempt in range(3):
+        try:
+            result = subprocess.run(
+                ["gh", "api", endpoint], check=True, capture_output=True,
+                encoding="utf-8", timeout=60,
+            )
+            return json.loads(result.stdout)
+        except (subprocess.CalledProcessError, subprocess.TimeoutExpired):
+            if attempt == 2:
+                raise RuntimeError(f"Public GitHub API unavailable after three attempts: {endpoint}") from None
+            time.sleep(attempt + 1)
 
 
 def collect(fetch=api, today=None):
