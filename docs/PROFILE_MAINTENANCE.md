@@ -2,7 +2,7 @@
 
 ## Content and assets
 
-`README.md` is the public profile. Update its introduction, focus and selected projects manually when their actual scope changes. `assets/header.svg` and `assets/toolkit.svg` are self-contained vectors; no font, image or script is fetched by either asset. The contribution animation remains in a collapsible section and is the only remote image.
+`README.md` is the public profile. Update its introduction, focus and selected projects manually when their actual scope changes. All visuals are self-contained repository SVGs: no font, image or script is fetched by the assets. README image URLs use the repository's Raw endpoint directly to avoid GitHub redirect failures. The contribution animation remains in a collapsible section on the separate `output` branch.
 
 ## Automatic public metadata
 

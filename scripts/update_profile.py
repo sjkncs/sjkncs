@@ -190,6 +190,12 @@ def main():
     for asset in (ROOT / "assets").rglob("*.svg"):
         validate_svg(asset.read_text(encoding="utf-8"))
     for src in re.findall(r'<img[^>]+src="([^"]+)"', readme):
+        owned_prefix = f"https://raw.githubusercontent.com/{OWNER}/{OWNER}/main/"
+        if src.startswith(owned_prefix):
+            asset = ROOT / src.removeprefix(owned_prefix)
+            if not asset.is_file() or not asset.resolve().is_relative_to((ROOT / "assets").resolve()):
+                raise ValueError("Missing or unexpected owned SVG asset")
+            continue
         if src.startswith("https://"):
             if src != f"https://raw.githubusercontent.com/{OWNER}/{OWNER}/output/github-snake.svg":
                 raise ValueError("Unexpected remote image dependency")

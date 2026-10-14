@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Yangting SONG / sjkncs. AI engineering, scientific computing and urban research." />
+  <img src="https://raw.githubusercontent.com/sjkncs/sjkncs/main/assets/header.svg" width="100%" alt="Yangting SONG / sjkncs. AI engineering, scientific computing and urban research." />
 </p>
 
 <p align="center">
-  <a href="https://github.com/sjkncs"><img src="assets/badges/github.svg" alt="GitHub / sjkncs" /></a>
-  <a href="https://orcid.org/0009-0001-7693-6484"><img src="assets/badges/orcid.svg" alt="ORCID" /></a>
+  <a href="https://github.com/sjkncs"><img src="https://raw.githubusercontent.com/sjkncs/sjkncs/main/assets/badges/github.svg" alt="GitHub / sjkncs" /></a>
+  <a href="https://orcid.org/0009-0001-7693-6484"><img src="https://raw.githubusercontent.com/sjkncs/sjkncs/main/assets/badges/orcid.svg" alt="ORCID" /></a>
 </p>
 
 <p align="center">
@@ -14,13 +14,13 @@
   <a href="mailto:zhiwaisong@gmail.com">Email / 联系</a>
 </p>
 
-## <img src="assets/icons/about.svg" width="22" height="22" alt="" /> About / 关于我
+## <img src="https://raw.githubusercontent.com/sjkncs/sjkncs/main/assets/icons/about.svg" width="22" height="22" alt="" /> About / 关于我
 
 I'm **Yangting SONG**, based in Shenzhen, at **Harbin Institute of Technology (Shenzhen)**. I build AI tools and agent workflows, and work with mathematical modeling, scientific computing and spatial data. My public repositories bring together software engineering, research tooling and applied projects.
 
 我是 **Yangting SONG（sjkncs）**，来自**哈尔滨工业大学（深圳）**。关注 AI 工具与智能体工作流、数学建模与科学计算，以及空间数据与城市研究；希望把方法、数据处理和可运行的软件连接起来。
 
-## <img src="assets/icons/focus.svg" width="22" height="22" alt="" /> Focus / 近期方向
+## <img src="https://raw.githubusercontent.com/sjkncs/sjkncs/main/assets/icons/focus.svg" width="22" height="22" alt="" /> Focus / 近期方向
 
 | Direction | 正在推进的工作 |
 | :--- | :--- |
@@ -30,7 +30,7 @@ I'm **Yangting SONG**, based in Shenzhen, at **Harbin Institute of Technology (S
 
 Longer-term interests include optimization, machine learning, quantitative analysis and environmental AI. / 长期兴趣包括优化理论、机器学习、量化分析与环境 AI。
 
-## <img src="assets/icons/projects.svg" width="22" height="22" alt="" /> Selected work / 项目精选
+## <img src="https://raw.githubusercontent.com/sjkncs/sjkncs/main/assets/icons/projects.svg" width="22" height="22" alt="" /> Selected work / 项目精选
 
 These are entry points into my public work; project READMEs document their setup and limitations. / 以下是公开项目的入口，使用方式和当前边界以各仓库说明为准。
 
@@ -55,29 +55,29 @@ These are entry points into my public work; project READMEs document their setup
 
 </details>
 
-## <img src="assets/icons/toolkit.svg" width="22" height="22" alt="" /> Toolkit / 常用工具
+## <img src="https://raw.githubusercontent.com/sjkncs/sjkncs/main/assets/icons/toolkit.svg" width="22" height="22" alt="" /> Toolkit / 常用工具
 
 <p align="center">
-  <img src="assets/badges/python.svg" alt="Python" />
-  <img src="assets/badges/typescript.svg" alt="TypeScript" />
-  <img src="assets/badges/javascript.svg" alt="JavaScript" />
-  <img src="assets/badges/pytorch.svg" alt="PyTorch" />
-  <img src="assets/badges/nodedotjs.svg" alt="Node.js" />
-  <img src="assets/badges/electron.svg" alt="Electron" />
-  <img src="assets/badges/git.svg" alt="Git" />
-  <img src="assets/badges/latex.svg" alt="LaTeX" />
+  <img src="https://raw.githubusercontent.com/sjkncs/sjkncs/main/assets/badges/python.svg" alt="Python" />
+  <img src="https://raw.githubusercontent.com/sjkncs/sjkncs/main/assets/badges/typescript.svg" alt="TypeScript" />
+  <img src="https://raw.githubusercontent.com/sjkncs/sjkncs/main/assets/badges/javascript.svg" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/sjkncs/sjkncs/main/assets/badges/pytorch.svg" alt="PyTorch" />
+  <img src="https://raw.githubusercontent.com/sjkncs/sjkncs/main/assets/badges/nodedotjs.svg" alt="Node.js" />
+  <img src="https://raw.githubusercontent.com/sjkncs/sjkncs/main/assets/badges/electron.svg" alt="Electron" />
+  <img src="https://raw.githubusercontent.com/sjkncs/sjkncs/main/assets/badges/git.svg" alt="Git" />
+  <img src="https://raw.githubusercontent.com/sjkncs/sjkncs/main/assets/badges/latex.svg" alt="LaTeX" />
 </p>
 
 <p>
-  <img src="assets/toolkit.svg" width="100%" alt="Python, TypeScript, JavaScript, PyTorch, scientific Python, Node.js, Electron, Playwright, GIS, Git and LaTeX." />
+  <img src="https://raw.githubusercontent.com/sjkncs/sjkncs/main/assets/toolkit.svg" width="100%" alt="Python, TypeScript, JavaScript, PyTorch, scientific Python, Node.js, Electron, Playwright, GIS, Git and LaTeX." />
 </p>
 
 Applied across these projects / 用于上述项目：**Python · TypeScript · JavaScript · PyTorch · pandas · scikit-learn · Node.js · Electron · Playwright · GIS · Git · LaTeX**.
 
-## <img src="assets/icons/activity.svg" width="22" height="22" alt="" /> Public activity / 公开仓库动态
+## <img src="https://raw.githubusercontent.com/sjkncs/sjkncs/main/assets/icons/activity.svg" width="22" height="22" alt="" /> Public activity / 公开仓库动态
 
 <p>
-  <img src="assets/activity.svg" width="100%" alt="Snapshot of public repository counts, forks, stars and primary-language counts. The accessible data table follows." />
+  <img src="https://raw.githubusercontent.com/sjkncs/sjkncs/main/assets/activity.svg" width="100%" alt="Snapshot of public repository counts, forks, stars and primary-language counts. The accessible data table follows." />
 </p>
 
 <!-- activity:start -->
@@ -118,7 +118,7 @@ Language counts describe repositories, not code-byte percentages or proficiency.
 
 </details>
 
-## <img src="assets/icons/connect.svg" width="22" height="22" alt="" /> Connect / 交流合作
+## <img src="https://raw.githubusercontent.com/sjkncs/sjkncs/main/assets/icons/connect.svg" width="22" height="22" alt="" /> Connect / 交流合作
 
 For AI tools, research workflows, spatial analysis or quantitative projects, reach me at [zhiwaisong@gmail.com](mailto:zhiwaisong@gmail.com), [GitHub](https://github.com/sjkncs) or [ORCID](https://orcid.org/0009-0001-7693-6484).
 
