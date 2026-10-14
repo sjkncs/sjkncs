@@ -6,9 +6,11 @@
 
 ## Automatic public metadata
 
+The layout puts representative projects before tools and statistics. Six 360px SVG cards wrap from two columns to one when the GitHub content column gets narrower. The cards contain dark-mode styles. `data/featured.json` is the manually curated card index; `assets/projects/*.svg` are generated from this index and the public metadata snapshot. Keep captions within the enforced length budgets. Reference profiles and adaptation decisions are recorded in [PROFILE_REFERENCES.md](PROFILE_REFERENCES.md).
+
 `scripts/update_profile.py` uses GitHub's public user and repository endpoints through GitHub CLI. It collects every page, excludes private repositories, checks the public repository count and stores a dated snapshot in `data/profile.json`. It does not access private project content, collect commit histories or infer achievements.
 
-The snapshot drives `assets/activity.svg` and the accessible README table. Total public repositories include forks; the separate non-fork count excludes them. Stars are summed over public non-fork repositories. Primary-language counts describe GitHub's single main language per non-fork repository; they are not language-byte percentages or proficiency. Recent activity lists non-fork, non-archived public repositories by push date, excluding this profile repository. Non-fork status does not imply original authorship: mirrors and derivative work may be included.
+The snapshot drives `assets/activity.svg`, the six featured project SVGs and the accessible README table. Featured repository metadata is taken from the same complete public repository response, not separate best-effort requests. A missing, private or forked featured repository fails the refresh. Total public repositories include forks; the separate non-fork count excludes them. Stars are summed over public non-fork repositories. Primary-language counts describe GitHub's single main language per non-fork repository; they are not language-byte percentages or proficiency. Recent activity lists non-fork, non-archived public repositories by push date, excluding this profile repository. Non-fork status does not imply original authorship: mirrors and derivative work may be included.
 
 Run from the repository root:
 

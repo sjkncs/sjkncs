@@ -22,14 +22,14 @@
   },
   "recent_pushes": [
     {
-      "name": "my-hexo-blog",
-      "url": "https://github.com/sjkncs/my-hexo-blog",
+      "name": "shenzhen-housing-redevelopment",
+      "url": "https://github.com/sjkncs/shenzhen-housing-redevelopment",
       "pushed_on": "2026-10-14"
     },
     {
-      "name": "shenzhen-housing-redevelopment",
-      "url": "https://github.com/sjkncs/shenzhen-housing-redevelopment",
-      "pushed_on": "2026-10-13"
+      "name": "my-hexo-blog",
+      "url": "https://github.com/sjkncs/my-hexo-blog",
+      "pushed_on": "2026-10-14"
     },
     {
       "name": "bili-ai-index",
@@ -45,6 +45,50 @@
       "name": "bili-3dv-paper-notes",
       "url": "https://github.com/sjkncs/bili-3dv-paper-notes",
       "pushed_on": "2026-10-12"
+    }
+  ],
+  "featured_repositories": [
+    {
+      "name": "agentx",
+      "html_url": "https://github.com/sjkncs/agentx",
+      "language": "TypeScript",
+      "stargazers_count": 1,
+      "pushed_at": "2026-09-06T11:51:41Z"
+    },
+    {
+      "name": "dsh-research",
+      "html_url": "https://github.com/sjkncs/dsh-research",
+      "language": "TypeScript",
+      "stargazers_count": 0,
+      "pushed_at": "2026-08-30T04:38:31Z"
+    },
+    {
+      "name": "shenzhen-housing-redevelopment",
+      "html_url": "https://github.com/sjkncs/shenzhen-housing-redevelopment",
+      "language": "Python",
+      "stargazers_count": 0,
+      "pushed_at": "2026-10-14T02:35:33Z"
+    },
+    {
+      "name": "gui-agent-framework",
+      "html_url": "https://github.com/sjkncs/gui-agent-framework",
+      "language": "Python",
+      "stargazers_count": 0,
+      "pushed_at": "2026-04-07T17:12:47Z"
+    },
+    {
+      "name": "bili-ai-index",
+      "html_url": "https://github.com/sjkncs/bili-ai-index",
+      "language": null,
+      "stargazers_count": 0,
+      "pushed_at": "2026-10-13T03:47:40Z"
+    },
+    {
+      "name": "Ding-AI",
+      "html_url": "https://github.com/sjkncs/Ding-AI",
+      "language": "TypeScript",
+      "stargazers_count": 3,
+      "pushed_at": "2026-02-09T11:55:10Z"
     }
   ]
 }

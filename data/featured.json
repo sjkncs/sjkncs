@@ -1,0 +1,8 @@
+[
+  {"name":"agentx","title":"AgentX","category":"AGENT ENGINEERING","accent":"#3178c6","icon":"code","en":"AI coding agent harness","zh":"多模型、插件与数据任务工作流","stack":"TypeScript / Node.js"},
+  {"name":"dsh-research","title":"dsh-research","category":"RESEARCH WORKFLOWS","accent":"#b65e40","icon":"book","en":"Research presets & desktop tools","zh":"科研预设、工作台与桌面包装","stack":"TypeScript / Electron"},
+  {"name":"shenzhen-housing-redevelopment","title":"Shenzhen Housing","category":"URBAN & SPATIAL RESEARCH","accent":"#28775c","icon":"map","en":"Data audits & event-study diagnostics","zh":"城市更新数据、空间核验与事件研究","stack":"Python / GIS"},
+  {"name":"gui-agent-framework","title":"GUI Agent Framework","category":"BROWSER & DESKTOP","accent":"#2b7a8c","icon":"terminal","en":"Modular automation pipelines","zh":"视觉、规划与人工介入流程","stack":"Python / Playwright"},
+  {"name":"bili-ai-index","title":"AI Learning Index","category":"SOURCE-LINKED RESOURCES","accent":"#a87816","icon":"book","en":"Paper readings, courses & 3D vision","zh":"论文、课程与三维视觉来源索引","stack":"Markdown / Metadata"},
+  {"name":"Ding-AI","title":"Ding-AI","category":"CREATIVE APPLICATIONS","accent":"#a95767","icon":"terminal","en":"AI-assisted presentation generation","zh":"Web 与桌面端演示文稿生成","stack":"TypeScript / Electron"}
+]

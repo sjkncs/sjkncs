@@ -67,6 +67,42 @@ class ProfileTests(unittest.TestCase):
         with self.assertRaises(RuntimeError):
             profile.collect(fetch)
 
+    def test_featured_metadata_comes_from_public_nonfork_repositories(self):
+        rows = [repo("selected"), repo("unrelated"), repo("fork")]
+        rows[2]["fork"] = True
+        data = profile.collect(self.fetcher([rows], 3), "2026-10-14", featured_names=["selected"])
+        self.assertEqual(data["featured_repositories"][0]["name"], "selected")
+        self.assertEqual(data["featured_repositories"][0]["stargazers_count"], 2)
+        for names in (["missing"], ["fork"], ["selected", "selected"]):
+            with self.assertRaises(ValueError):
+                profile.collect(self.fetcher([rows], 3), featured_names=names)
+
+    def test_featured_card_is_self_contained_and_layout_bounded(self):
+        project = {"name": "selected", "title": "Project <&", "category": "RESEARCH", "accent": "#3178c6", "icon": "code",
+                   "en": "Public source", "zh": "公开项目", "stack": "Python"}
+        svg = profile.project_svg(project, repo("selected"))
+        profile.validate_svg(svg)
+        self.assertIn("Project &lt;&amp;", svg)
+        self.assertIn("2026-10-13", svg)
+        self.assertIn("2 stars", svg)
+        self.assertIn("prefers-color-scheme:dark", svg)
+        project["title"] = "x" * 25
+        with self.assertRaises(ValueError):
+            profile.project_svg(project, repo("selected"))
+
+    def test_project_outputs_match_snapshot_and_missing_metadata_fails(self):
+        project = {"name": "selected", "title": "Selected", "category": "TOOLS", "accent": "#3178c6", "icon": "terminal",
+                   "en": "Public source", "zh": "公开项目", "stack": "Python"}
+        data = profile.collect(self.fetcher([[repo("selected")]], 1), "2026-10-14", featured_names=["selected"])
+        readme = profile.START + profile.END
+        rendered = profile.outputs(data, readme, featured=[project])
+        self.assertEqual(len(rendered), 4)
+        self.assertIn("2 stars", rendered[profile.ROOT / "assets/projects/selected.svg"])
+        self.assertIn("Full data & methodology", rendered[profile.ROOT / "README.md"])
+        data["featured_repositories"] = []
+        with self.assertRaises(ValueError):
+            profile.outputs(data, readme, featured=[project])
+
     def test_svg_escaping_and_empty_languages(self):
         data = profile.collect(self.fetcher([[repo("normal")]], 1), "2026-10-13")
         data["primary_languages"] = {"C<&": 1}
