@@ -10,9 +10,9 @@
   "without_primary_language": 15,
   "primary_languages": {
     "Python": 50,
-    "TypeScript": 19,
+    "TypeScript": 20,
     "JavaScript": 6,
-    "HTML": 5,
+    "HTML": 4,
     "TeX": 3,
     "C": 2,
     "PowerShell": 2,
@@ -22,19 +22,19 @@
   },
   "recent_pushes": [
     {
-      "name": "shenzhen-housing-redevelopment",
-      "url": "https://github.com/sjkncs/shenzhen-housing-redevelopment",
-      "pushed_on": "2026-10-14"
-    },
-    {
       "name": "my-hexo-blog",
       "url": "https://github.com/sjkncs/my-hexo-blog",
       "pushed_on": "2026-10-14"
     },
     {
+      "name": "shenzhen-housing-redevelopment",
+      "url": "https://github.com/sjkncs/shenzhen-housing-redevelopment",
+      "pushed_on": "2026-10-14"
+    },
+    {
       "name": "bili-ai-index",
       "url": "https://github.com/sjkncs/bili-ai-index",
-      "pushed_on": "2026-10-13"
+      "pushed_on": "2026-10-14"
     },
     {
       "name": "bili-limu-ai",
@@ -67,7 +67,7 @@
       "html_url": "https://github.com/sjkncs/shenzhen-housing-redevelopment",
       "language": "Python",
       "stargazers_count": 0,
-      "pushed_at": "2026-10-14T02:35:33Z"
+      "pushed_at": "2026-10-14T05:47:28Z"
     },
     {
       "name": "gui-agent-framework",
@@ -81,7 +81,7 @@
       "html_url": "https://github.com/sjkncs/bili-ai-index",
       "language": null,
       "stargazers_count": 0,
-      "pushed_at": "2026-10-13T03:47:40Z"
+      "pushed_at": "2026-10-14T05:24:44Z"
     },
     {
       "name": "Ding-AI",

@@ -76,9 +76,9 @@ Snapshot / 快照：**2026-10-14 UTC** · 每日尝试同步。
 
 Recent pushes / 最近推送：
 
-- [shenzhen-housing-redevelopment](https://github.com/sjkncs/shenzhen-housing-redevelopment) · 2026-10-14
 - [my-hexo-blog](https://github.com/sjkncs/my-hexo-blog) · 2026-10-14
-- [bili-ai-index](https://github.com/sjkncs/bili-ai-index) · 2026-10-13
+- [shenzhen-housing-redevelopment](https://github.com/sjkncs/shenzhen-housing-redevelopment) · 2026-10-14
+- [bili-ai-index](https://github.com/sjkncs/bili-ai-index) · 2026-10-14
 
 <details>
 <summary>Full data & methodology / 完整数据与统计口径</summary>
@@ -90,7 +90,7 @@ Recent pushes / 最近推送：
 | Forks / 分叉仓库 | 114 |
 | Stars on non-fork repositories / 非 fork 仓库获星总数 | 110 |
 
-Primary language by repository / 非 fork 仓库主语言计数：Python: 50; TypeScript: 19; JavaScript: 6; HTML: 5; TeX: 3; C: 2; PowerShell: 2; Jupyter Notebook: 1; VHDL: 1; Vue: 1。
+Primary language by repository / 非 fork 仓库主语言计数：Python: 50; TypeScript: 20; JavaScript: 6; HTML: 4; TeX: 3; C: 2; PowerShell: 2; Jupyter Notebook: 1; VHDL: 1; Vue: 1。
 No primary language reported / 未报告主语言：15。
 
 Language counts describe repositories, not code-byte percentages or proficiency. Non-fork does not establish original authorship. / 主语言计数不是代码占比或熟练度，非 fork 也不代表全部原创。

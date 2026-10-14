@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="360" height="194" viewBox="0 0 360 194" role="img" aria-labelledby="title desc">
 <title id="title">AI Learning Index</title>
-<desc id="desc">Paper readings, courses &amp; 3D vision. 论文、课程与三维视觉来源索引. 0 stars. Last push 2026-10-13.</desc>
+<desc id="desc">Paper readings, courses &amp; 3D vision. 论文、课程与三维视觉来源索引. 0 stars. Last push 2026-10-14.</desc>
 <style>.bg{fill:#fff;stroke:#d9e0e7}.ink{fill:#233044}.muted{fill:#526479}.rule{stroke:#e2e7ed}@media(prefers-color-scheme:dark){.bg{fill:#161b22;stroke:#30363d}.ink{fill:#eef2f6}.muted{fill:#b2bbc6}.rule{stroke:#30363d}}</style>
 <rect class="bg" x="1" y="1" width="358" height="192" rx="8"/>
 <path d="M8 2H352" stroke="#a87816" stroke-width="3"/>
@@ -13,5 +13,5 @@
 <text x="22" y="147" font-size="10" fill="#a87816">Markdown / Metadata</text>
 <path class="rule" d="M22 158H338"/>
 <text class="muted" x="22" y="179" font-size="10">0 stars</text>
-<text class="muted" x="338" y="179" text-anchor="end" font-size="10">Pushed 2026-10-13</text>
+<text class="muted" x="338" y="179" text-anchor="end" font-size="10">Pushed 2026-10-14</text>
 </g></svg>
