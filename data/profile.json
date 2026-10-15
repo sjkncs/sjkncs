@@ -1,15 +1,15 @@
 {
   "owner": "sjkncs",
-  "collected_on": "2026-10-14",
+  "collected_on": "2026-10-15",
   "source": "https://api.github.com/users/sjkncs",
   "repositories_source": "https://api.github.com/users/sjkncs/repos?type=owner",
-  "public_repositories": 219,
-  "nonfork_repositories": 105,
+  "public_repositories": 220,
+  "nonfork_repositories": 106,
   "forks": 114,
   "nonfork_stars": 110,
   "without_primary_language": 15,
   "primary_languages": {
-    "Python": 50,
+    "Python": 51,
     "TypeScript": 20,
     "JavaScript": 6,
     "HTML": 4,
@@ -22,13 +22,18 @@
   },
   "recent_pushes": [
     {
-      "name": "my-hexo-blog",
-      "url": "https://github.com/sjkncs/my-hexo-blog",
-      "pushed_on": "2026-10-14"
+      "name": "cad-dataset-repro",
+      "url": "https://github.com/sjkncs/cad-dataset-repro",
+      "pushed_on": "2026-10-15"
     },
     {
       "name": "shenzhen-housing-redevelopment",
       "url": "https://github.com/sjkncs/shenzhen-housing-redevelopment",
+      "pushed_on": "2026-10-14"
+    },
+    {
+      "name": "my-hexo-blog",
+      "url": "https://github.com/sjkncs/my-hexo-blog",
       "pushed_on": "2026-10-14"
     },
     {
@@ -39,11 +44,6 @@
     {
       "name": "bili-limu-ai",
       "url": "https://github.com/sjkncs/bili-limu-ai",
-      "pushed_on": "2026-10-12"
-    },
-    {
-      "name": "bili-3dv-paper-notes",
-      "url": "https://github.com/sjkncs/bili-3dv-paper-notes",
       "pushed_on": "2026-10-12"
     }
   ],
@@ -67,7 +67,7 @@
       "html_url": "https://github.com/sjkncs/shenzhen-housing-redevelopment",
       "language": "Python",
       "stargazers_count": 0,
-      "pushed_at": "2026-10-14T05:47:28Z"
+      "pushed_at": "2026-10-14T11:29:03Z"
     },
     {
       "name": "gui-agent-framework",
