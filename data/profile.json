@@ -1,16 +1,16 @@
 {
   "owner": "sjkncs",
-  "collected_on": "2026-10-16",
+  "collected_on": "2026-10-17",
   "source": "https://api.github.com/users/sjkncs",
   "repositories_source": "https://api.github.com/users/sjkncs/repos?type=owner",
-  "public_repositories": 220,
-  "nonfork_repositories": 106,
+  "public_repositories": 221,
+  "nonfork_repositories": 107,
   "forks": 114,
-  "nonfork_stars": 111,
+  "nonfork_stars": 112,
   "without_primary_language": 15,
   "primary_languages": {
     "Python": 51,
-    "TypeScript": 20,
+    "TypeScript": 21,
     "JavaScript": 6,
     "HTML": 4,
     "TeX": 3,
@@ -22,9 +22,19 @@
   },
   "recent_pushes": [
     {
+      "name": "openbot",
+      "url": "https://github.com/sjkncs/openbot",
+      "pushed_on": "2026-10-17"
+    },
+    {
+      "name": "shenzhen-housing-redevelopment",
+      "url": "https://github.com/sjkncs/shenzhen-housing-redevelopment",
+      "pushed_on": "2026-10-17"
+    },
+    {
       "name": "my-hexo-blog",
       "url": "https://github.com/sjkncs/my-hexo-blog",
-      "pushed_on": "2026-10-15"
+      "pushed_on": "2026-10-16"
     },
     {
       "name": "cad-dataset-repro",
@@ -32,19 +42,9 @@
       "pushed_on": "2026-10-15"
     },
     {
-      "name": "shenzhen-housing-redevelopment",
-      "url": "https://github.com/sjkncs/shenzhen-housing-redevelopment",
-      "pushed_on": "2026-10-14"
-    },
-    {
       "name": "bili-ai-index",
       "url": "https://github.com/sjkncs/bili-ai-index",
       "pushed_on": "2026-10-14"
-    },
-    {
-      "name": "bili-limu-ai",
-      "url": "https://github.com/sjkncs/bili-limu-ai",
-      "pushed_on": "2026-10-12"
     }
   ],
   "featured_repositories": [
@@ -67,7 +67,7 @@
       "html_url": "https://github.com/sjkncs/shenzhen-housing-redevelopment",
       "language": "Python",
       "stargazers_count": 0,
-      "pushed_at": "2026-10-14T11:29:03Z"
+      "pushed_at": "2026-10-17T01:45:36Z"
     },
     {
       "name": "gui-agent-framework",
