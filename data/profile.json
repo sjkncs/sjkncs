@@ -1,12 +1,12 @@
 {
   "owner": "sjkncs",
-  "collected_on": "2026-10-17",
+  "collected_on": "2026-10-18",
   "source": "https://api.github.com/users/sjkncs",
   "repositories_source": "https://api.github.com/users/sjkncs/repos?type=owner",
   "public_repositories": 221,
   "nonfork_repositories": 107,
   "forks": 114,
-  "nonfork_stars": 112,
+  "nonfork_stars": 113,
   "without_primary_language": 15,
   "primary_languages": {
     "Python": 51,
@@ -34,7 +34,7 @@
     {
       "name": "my-hexo-blog",
       "url": "https://github.com/sjkncs/my-hexo-blog",
-      "pushed_on": "2026-10-16"
+      "pushed_on": "2026-10-17"
     },
     {
       "name": "cad-dataset-repro",
@@ -67,7 +67,7 @@
       "html_url": "https://github.com/sjkncs/shenzhen-housing-redevelopment",
       "language": "Python",
       "stargazers_count": 0,
-      "pushed_at": "2026-10-17T01:45:36Z"
+      "pushed_at": "2026-10-17T16:10:09Z"
     },
     {
       "name": "gui-agent-framework",
