@@ -1,6 +1,6 @@
 {
   "owner": "sjkncs",
-  "collected_on": "2026-10-30",
+  "collected_on": "2026-10-31",
   "source": "https://api.github.com/users/sjkncs",
   "repositories_source": "https://api.github.com/users/sjkncs/repos?type=owner",
   "public_repositories": 221,
@@ -22,9 +22,14 @@
   },
   "recent_pushes": [
     {
+      "name": "ai-papers-and-notes",
+      "url": "https://github.com/sjkncs/ai-papers-and-notes",
+      "pushed_on": "2026-10-31"
+    },
+    {
       "name": "my-hexo-blog",
       "url": "https://github.com/sjkncs/my-hexo-blog",
-      "pushed_on": "2026-10-29"
+      "pushed_on": "2026-10-30"
     },
     {
       "name": "openbot",
@@ -40,11 +45,6 @@
       "name": "cad-dataset-repro",
       "url": "https://github.com/sjkncs/cad-dataset-repro",
       "pushed_on": "2026-10-15"
-    },
-    {
-      "name": "bili-ai-index",
-      "url": "https://github.com/sjkncs/bili-ai-index",
-      "pushed_on": "2026-10-14"
     }
   ],
   "featured_repositories": [
