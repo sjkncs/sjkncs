@@ -1,6 +1,6 @@
 {
   "owner": "sjkncs",
-  "collected_on": "2026-10-31",
+  "collected_on": "2026-11-01",
   "source": "https://api.github.com/users/sjkncs",
   "repositories_source": "https://api.github.com/users/sjkncs/repos?type=owner",
   "public_repositories": 221,
@@ -22,14 +22,14 @@
   },
   "recent_pushes": [
     {
-      "name": "ai-papers-and-notes",
-      "url": "https://github.com/sjkncs/ai-papers-and-notes",
+      "name": "my-hexo-blog",
+      "url": "https://github.com/sjkncs/my-hexo-blog",
       "pushed_on": "2026-10-31"
     },
     {
-      "name": "my-hexo-blog",
-      "url": "https://github.com/sjkncs/my-hexo-blog",
-      "pushed_on": "2026-10-30"
+      "name": "ai-papers-and-notes",
+      "url": "https://github.com/sjkncs/ai-papers-and-notes",
+      "pushed_on": "2026-10-31"
     },
     {
       "name": "openbot",
