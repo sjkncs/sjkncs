@@ -1,16 +1,16 @@
 {
   "owner": "sjkncs",
-  "collected_on": "2026-11-15",
+  "collected_on": "2026-11-16",
   "source": "https://api.github.com/users/sjkncs",
   "repositories_source": "https://api.github.com/users/sjkncs/repos?type=owner",
-  "public_repositories": 221,
-  "nonfork_repositories": 107,
+  "public_repositories": 222,
+  "nonfork_repositories": 108,
   "forks": 114,
   "nonfork_stars": 129,
   "without_primary_language": 15,
   "primary_languages": {
     "Python": 51,
-    "TypeScript": 21,
+    "TypeScript": 22,
     "JavaScript": 6,
     "HTML": 4,
     "TeX": 3,
@@ -24,7 +24,12 @@
     {
       "name": "my-hexo-blog",
       "url": "https://github.com/sjkncs/my-hexo-blog",
-      "pushed_on": "2026-11-14"
+      "pushed_on": "2026-11-15"
+    },
+    {
+      "name": "Anke",
+      "url": "https://github.com/sjkncs/Anke",
+      "pushed_on": "2026-11-15"
     },
     {
       "name": "ai-papers-and-notes",
@@ -40,11 +45,6 @@
       "name": "shenzhen-housing-redevelopment",
       "url": "https://github.com/sjkncs/shenzhen-housing-redevelopment",
       "pushed_on": "2026-10-17"
-    },
-    {
-      "name": "cad-dataset-repro",
-      "url": "https://github.com/sjkncs/cad-dataset-repro",
-      "pushed_on": "2026-10-15"
     }
   ],
   "featured_repositories": [
