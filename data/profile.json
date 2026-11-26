@@ -1,17 +1,17 @@
 {
   "owner": "sjkncs",
-  "collected_on": "2026-11-25",
+  "collected_on": "2026-11-26",
   "source": "https://api.github.com/users/sjkncs",
   "repositories_source": "https://api.github.com/users/sjkncs/repos?type=owner",
-  "public_repositories": 225,
-  "nonfork_repositories": 108,
+  "public_repositories": 228,
+  "nonfork_repositories": 111,
   "forks": 117,
-  "nonfork_stars": 132,
-  "without_primary_language": 15,
+  "nonfork_stars": 133,
+  "without_primary_language": 16,
   "primary_languages": {
-    "Python": 51,
+    "Python": 52,
     "TypeScript": 22,
-    "JavaScript": 6,
+    "JavaScript": 7,
     "HTML": 4,
     "TeX": 3,
     "C": 2,
@@ -22,29 +22,29 @@
   },
   "recent_pushes": [
     {
+      "name": "claude-gateway-private-kit",
+      "url": "https://github.com/sjkncs/claude-gateway-private-kit",
+      "pushed_on": "2026-11-26"
+    },
+    {
+      "name": "bili-toolkit",
+      "url": "https://github.com/sjkncs/bili-toolkit",
+      "pushed_on": "2026-11-26"
+    },
+    {
+      "name": "dsh-env-audit",
+      "url": "https://github.com/sjkncs/dsh-env-audit",
+      "pushed_on": "2026-11-26"
+    },
+    {
       "name": "my-hexo-blog",
       "url": "https://github.com/sjkncs/my-hexo-blog",
-      "pushed_on": "2026-11-24"
+      "pushed_on": "2026-11-25"
     },
     {
       "name": "Anke",
       "url": "https://github.com/sjkncs/Anke",
       "pushed_on": "2026-11-15"
-    },
-    {
-      "name": "ai-papers-and-notes",
-      "url": "https://github.com/sjkncs/ai-papers-and-notes",
-      "pushed_on": "2026-10-31"
-    },
-    {
-      "name": "openbot",
-      "url": "https://github.com/sjkncs/openbot",
-      "pushed_on": "2026-10-17"
-    },
-    {
-      "name": "shenzhen-housing-redevelopment",
-      "url": "https://github.com/sjkncs/shenzhen-housing-redevelopment",
-      "pushed_on": "2026-10-17"
     }
   ],
   "featured_repositories": [
