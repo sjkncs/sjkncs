@@ -1,21 +1,21 @@
 {
   "owner": "sjkncs",
-  "collected_on": "2026-11-26",
+  "collected_on": "2026-11-27",
   "source": "https://api.github.com/users/sjkncs",
   "repositories_source": "https://api.github.com/users/sjkncs/repos?type=owner",
   "public_repositories": 228,
   "nonfork_repositories": 111,
   "forks": 117,
-  "nonfork_stars": 133,
+  "nonfork_stars": 135,
   "without_primary_language": 16,
   "primary_languages": {
     "Python": 52,
     "TypeScript": 22,
-    "JavaScript": 7,
+    "JavaScript": 6,
     "HTML": 4,
+    "PowerShell": 3,
     "TeX": 3,
     "C": 2,
-    "PowerShell": 2,
     "Jupyter Notebook": 1,
     "VHDL": 1,
     "Vue": 1
@@ -24,6 +24,11 @@
     {
       "name": "claude-gateway-private-kit",
       "url": "https://github.com/sjkncs/claude-gateway-private-kit",
+      "pushed_on": "2026-11-27"
+    },
+    {
+      "name": "my-hexo-blog",
+      "url": "https://github.com/sjkncs/my-hexo-blog",
       "pushed_on": "2026-11-26"
     },
     {
@@ -35,11 +40,6 @@
       "name": "dsh-env-audit",
       "url": "https://github.com/sjkncs/dsh-env-audit",
       "pushed_on": "2026-11-26"
-    },
-    {
-      "name": "my-hexo-blog",
-      "url": "https://github.com/sjkncs/my-hexo-blog",
-      "pushed_on": "2026-11-25"
     },
     {
       "name": "Anke",
